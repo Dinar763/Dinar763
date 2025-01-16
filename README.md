@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 👋 My name is Dinar :v: Welcome!
+
+<b>About me</b>
+
+- I am 38 year old Performance Engineer from Samara 💻
+- I learn Java at  [Job4j](https://job4j.ru) ☕
+- I studied at [PSUTI](https://www.psuti.ru) (Povolzhskiy State University of Telecommunications and Informatics). 🏢
+- My Java expirience is 2 years ⌚
+
 
 <!--
 **Dinar763/Dinar763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
