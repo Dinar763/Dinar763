@@ -4,7 +4,7 @@
 
 - I am 38 year old Performance Engineer from Samara 💻
 - I studied at [PSUTI](https://www.psuti.ru) (Povolzhskiy State University of Telecommunications and Informatics). 🏢
-- My Java expirience is 2 years ⌚
+- My Java expirience is 4 years ⌚
 
 
 <!--
